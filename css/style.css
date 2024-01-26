@@ -1,0 +1,36 @@
+.main-icon {
+    height: 100px;
+    display: block;
+}
+
+.container {
+    margin-top: 15px;
+    height: 70px;
+    width: 100%;
+    background-color: #fb4c4c;
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+}
+
+.nav_bar {
+    text-decoration: none;
+    background-color: #b1dddf;
+    height: auto;
+    width: auto;
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 1px rgb(0, 0, 0);
+}
+
+.nav_bar:hover {
+    background-color: black;
+    color: white;
+    border: solid 1px rgb(255, 255, 255);
+}
